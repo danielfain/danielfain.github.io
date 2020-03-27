@@ -1,3 +1,3 @@
 # danielfain.github.io
 
-My minimal portfolio to showcase projects.
+My minimal personal website.
