@@ -59,7 +59,7 @@ const Contact = () => {
         <span role="img" aria-label="love-letter">
           💌
         </span>{' '}
-        <InvisibleInput value="mateus@dlbn.co" />
+        <InvisibleInput value="daniel@fain.dev" />
       </p>
     </div>
   );
