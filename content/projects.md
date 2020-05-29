@@ -1,13 +1,13 @@
 ---
 title: personal projects
 projects:
-  - title: tripby.org
-    url: 'https://tripby.org'
-    description: 'Psychoactive drug info'
-  - title: react-moon
-    url: 'https://dlbnco.github.io/react-moon'
-    description: 'React component for rendering moon phases'
-  - title: ekādaśi
-    url: 'https://ekadasi.dlbn.co'
-    description: 'Minimalistic Ekadashi calendar and moon visualizer'
+  - title: image-rekognizer
+    url: 'https://image.fain.dev'
+    description: 'A serverless image hosting website that detects what is in images and labels them accordingly'
+  - title: home-media-server
+    url: 'https://github.com/danielfain/home-media-server'
+    description: 'Automated home media server CLI tool with Plex, Sonarr, Radarr, and Jackett'
+  - title: shortener
+    url: 'https://github.com/danielfain/shortener'
+    description: 'Serverless URL shortener'
 ---
