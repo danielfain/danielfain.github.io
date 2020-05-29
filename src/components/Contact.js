@@ -5,28 +5,12 @@ import styled from 'styled-components';
 const links = [
   {
     id: 'github',
-    href: 'https://github.com/dlbnco',
-  },
-  {
-    id: 'stackoverflow',
-    href: 'https://stackoverflow.com/users/4432910/mateus-ferreira',
+    href: 'https://github.com/danielfain',
   },
   {
     id: 'linkedin',
-    href: 'https://linkedin.com/in/dlbnco',
-  },
-  {
-    id: 'soundcloud',
-    href: 'https://soundcloud.com/dlbnco/likes',
-  },
-  {
-    id: 'strava',
-    href: 'https://www.strava.com/athletes/17408874',
-  },
-  {
-    id: 'twitter',
-    href: 'https://twitter.com/dlbnco',
-  },
+    href: 'https://linkedin.com/in/danieljfain',
+  }
 ];
 
 const Icon = styled.img`
