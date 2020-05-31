@@ -4,6 +4,7 @@ import { space } from 'styled-system';
 
 import Layout from '../components/layout';
 import About from '../components/About';
+import Avatar from '../components/Avatar';
 import Contact from '../components/Contact';
 import Separator from '../components/Separator';
 import Projects from '../components/Projects';
@@ -16,9 +17,9 @@ const Section = styled.section`
 const IndexPage = () => (
   <Layout>
     <Meta title="Daniel Fain" />
-    {/* <Section mb={4}>
+    <Section>
       <Avatar />
-    </Section> */}
+    </Section>
     <Section pt={[3, 4, null, null, 5]}>
       <About />
     </Section>
